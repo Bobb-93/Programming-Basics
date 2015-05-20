@@ -1,0 +1,5 @@
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework2\Intro-Programming-Homework\5.PrintYourName\bin\Debug\5.PrintYourName.exe.config
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework2\Intro-Programming-Homework\5.PrintYourName\bin\Debug\5.PrintYourName.exe
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework2\Intro-Programming-Homework\5.PrintYourName\bin\Debug\5.PrintYourName.pdb
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework2\Intro-Programming-Homework\5.PrintYourName\obj\Debug\5.PrintYourName.exe
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework2\Intro-Programming-Homework\5.PrintYourName\obj\Debug\5.PrintYourName.pdb

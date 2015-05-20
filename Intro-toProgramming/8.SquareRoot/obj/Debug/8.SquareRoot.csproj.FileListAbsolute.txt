@@ -1,0 +1,5 @@
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework2\Intro-Programming-Homework\8.SquareRoot\bin\Debug\8.SquareRoot.exe.config
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework2\Intro-Programming-Homework\8.SquareRoot\bin\Debug\8.SquareRoot.exe
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework2\Intro-Programming-Homework\8.SquareRoot\bin\Debug\8.SquareRoot.pdb
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework2\Intro-Programming-Homework\8.SquareRoot\obj\Debug\8.SquareRoot.exe
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework2\Intro-Programming-Homework\8.SquareRoot\obj\Debug\8.SquareRoot.pdb

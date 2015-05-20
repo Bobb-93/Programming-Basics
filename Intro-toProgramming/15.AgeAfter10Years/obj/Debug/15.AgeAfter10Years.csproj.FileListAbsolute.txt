@@ -1,0 +1,5 @@
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework2\Intro-Programming-Homework\15.AgeAfter10Years\bin\Debug\15.AgeAfter10Years.exe.config
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework2\Intro-Programming-Homework\15.AgeAfter10Years\bin\Debug\15.AgeAfter10Years.exe
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework2\Intro-Programming-Homework\15.AgeAfter10Years\bin\Debug\15.AgeAfter10Years.pdb
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework2\Intro-Programming-Homework\15.AgeAfter10Years\obj\Debug\15.AgeAfter10Years.exe
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework2\Intro-Programming-Homework\15.AgeAfter10Years\obj\Debug\15.AgeAfter10Years.pdb
