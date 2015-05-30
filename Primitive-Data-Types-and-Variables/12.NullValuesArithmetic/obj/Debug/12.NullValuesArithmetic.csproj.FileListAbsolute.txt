@@ -1,0 +1,6 @@
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework3\Primitive-Data-Types-and-Variables\12.NullValuesArithmetic\bin\Debug\12.NullValuesArithmetic.exe.config
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework3\Primitive-Data-Types-and-Variables\12.NullValuesArithmetic\bin\Debug\12.NullValuesArithmetic.exe
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework3\Primitive-Data-Types-and-Variables\12.NullValuesArithmetic\bin\Debug\12.NullValuesArithmetic.pdb
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework3\Primitive-Data-Types-and-Variables\12.NullValuesArithmetic\obj\Debug\12.NullValuesArithmetic.csprojResolveAssemblyReference.cache
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework3\Primitive-Data-Types-and-Variables\12.NullValuesArithmetic\obj\Debug\12.NullValuesArithmetic.exe
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework3\Primitive-Data-Types-and-Variables\12.NullValuesArithmetic\obj\Debug\12.NullValuesArithmetic.pdb

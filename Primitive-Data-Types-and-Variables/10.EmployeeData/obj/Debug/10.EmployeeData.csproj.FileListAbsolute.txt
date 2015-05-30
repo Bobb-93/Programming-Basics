@@ -1,0 +1,5 @@
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework3\Primitive-Data-Types-and-Variables\10.EmployeeData\bin\Debug\10.EmployeeData.exe.config
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework3\Primitive-Data-Types-and-Variables\10.EmployeeData\bin\Debug\10.EmployeeData.exe
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework3\Primitive-Data-Types-and-Variables\10.EmployeeData\bin\Debug\10.EmployeeData.pdb
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework3\Primitive-Data-Types-and-Variables\10.EmployeeData\obj\Debug\10.EmployeeData.exe
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework3\Primitive-Data-Types-and-Variables\10.EmployeeData\obj\Debug\10.EmployeeData.pdb

@@ -1,0 +1,6 @@
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework3\Primitive-Data-Types-and-Variables\16.HalfSum\bin\Debug\16.HalfSum.exe.config
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework3\Primitive-Data-Types-and-Variables\16.HalfSum\obj\Debug\16.HalfSum.csprojResolveAssemblyReference.cache
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework3\Primitive-Data-Types-and-Variables\16.HalfSum\bin\Debug\16.HalfSum.exe
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework3\Primitive-Data-Types-and-Variables\16.HalfSum\bin\Debug\16.HalfSum.pdb
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework3\Primitive-Data-Types-and-Variables\16.HalfSum\obj\Debug\16.HalfSum.exe
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework3\Primitive-Data-Types-and-Variables\16.HalfSum\obj\Debug\16.HalfSum.pdb

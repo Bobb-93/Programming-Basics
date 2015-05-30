@@ -1,0 +1,5 @@
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework3\Primitive-Data-Types-and-Variables\7.QuotesInStrings\bin\Debug\7.QuotesInStrings.exe.config
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework3\Primitive-Data-Types-and-Variables\7.QuotesInStrings\bin\Debug\7.QuotesInStrings.exe
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework3\Primitive-Data-Types-and-Variables\7.QuotesInStrings\bin\Debug\7.QuotesInStrings.pdb
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework3\Primitive-Data-Types-and-Variables\7.QuotesInStrings\obj\Debug\7.QuotesInStrings.exe
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework3\Primitive-Data-Types-and-Variables\7.QuotesInStrings\obj\Debug\7.QuotesInStrings.pdb

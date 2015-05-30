@@ -1,0 +1,5 @@
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework3\Primitive-Data-Types-and-Variables\6.StringsAndObjects\bin\Debug\6.StringsAndObjects.exe.config
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework3\Primitive-Data-Types-and-Variables\6.StringsAndObjects\bin\Debug\6.StringsAndObjects.exe
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework3\Primitive-Data-Types-and-Variables\6.StringsAndObjects\bin\Debug\6.StringsAndObjects.pdb
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework3\Primitive-Data-Types-and-Variables\6.StringsAndObjects\obj\Debug\6.StringsAndObjects.exe
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework3\Primitive-Data-Types-and-Variables\6.StringsAndObjects\obj\Debug\6.StringsAndObjects.pdb

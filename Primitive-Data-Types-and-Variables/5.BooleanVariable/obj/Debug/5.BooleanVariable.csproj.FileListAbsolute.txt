@@ -1,0 +1,5 @@
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework3\Primitive-Data-Types-and-Variables\5.BooleanVariable\bin\Debug\5.BooleanVariable.exe.config
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework3\Primitive-Data-Types-and-Variables\5.BooleanVariable\bin\Debug\5.BooleanVariable.exe
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework3\Primitive-Data-Types-and-Variables\5.BooleanVariable\bin\Debug\5.BooleanVariable.pdb
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework3\Primitive-Data-Types-and-Variables\5.BooleanVariable\obj\Debug\5.BooleanVariable.exe
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework3\Primitive-Data-Types-and-Variables\5.BooleanVariable\obj\Debug\5.BooleanVariable.pdb

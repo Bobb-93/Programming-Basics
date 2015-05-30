@@ -1,0 +1,5 @@
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework3\Primitive-Data-Types-and-Variables\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.exe.config
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework3\Primitive-Data-Types-and-Variables\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.exe
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework3\Primitive-Data-Types-and-Variables\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.pdb
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework3\Primitive-Data-Types-and-Variables\14.PrintTheASCIITable\obj\Debug\14.PrintTheASCIITable.exe
+D:\D_drive\Bobi\SU 3 course 2 sem\C###\SOFTUNI\edithomework3\Primitive-Data-Types-and-Variables\14.PrintTheASCIITable\obj\Debug\14.PrintTheASCIITable.pdb
